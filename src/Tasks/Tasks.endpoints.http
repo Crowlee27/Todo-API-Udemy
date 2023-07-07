@@ -8,9 +8,9 @@ POST http://localhost:3200/Tasks
 Content-Type: application/json
 
 {
-  "title": "Task 1",
-  "date": "2019-01-01",
-  "description": "Task 1 description",
+  "title": "Task 2",
+  "date": "2019-01-02",
+  "description": "Task 2 description",
   "status": "Todo",
   "priority": "High"
 }
